@@ -1,7 +1,8 @@
 #include <iostream>
-#include <string.h>
+#include <string>
 #include <iostream>
-#include <math.h>
+#include <cmath>
+#include <algorithm>
 using namespace std;
 
 class Numar_Complex {
